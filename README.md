@@ -2,12 +2,6 @@
 
 > sibisa-be
 
-## LINK WEBSITE
-
-https://sibisa-351215.et.r.appspot.com/ </br>
-https://sibisa-351215.et.r.appspot.com/ </br>
-https://sibisa-351215.et.r.appspot.com/
-
 ## Table of contents
 
 - [Brief Description](#brief-description)
@@ -32,11 +26,6 @@ For more documentation, you can click this link https://sibisa-351215.et.r.appsp
 
 1. NodeJS: https://nodejs.org/en/
 2. Account Google Cloud Platform https://console.cloud.google.com/
-3. Docker Desktop https://www.docker.com/ (OPTIONAL)
-
-## Download Folder
-
-1. Download the zip file on https://github.com/SIBISA-github/sibisa-be/
 
 ## How to Use
 
@@ -47,12 +36,3 @@ For more documentation, you can click this link https://sibisa-351215.et.r.appsp
 3. Run npm install
 4. Run npm start
 
-### On the Internet
-
-1. click https://sibisa-351215.et.r.appspot.com/
-
-### With docker
-
-1. Make sure you have docker desktop on your local computer
-2. Run docker build -t sibisa:0.1 .
-3. Run docker run -p 4000:8000 --name sibisa-be-app sibisa:0.1
